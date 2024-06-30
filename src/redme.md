@@ -62,7 +62,6 @@ Aspectos que aborda incluyen:
 
 
 
-
 '''
 
 DER SIMPLIFICADO
